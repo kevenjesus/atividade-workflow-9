@@ -1,0 +1,22 @@
+{
+  "name": "atividade-workflow",
+  "version": "1.0.0",
+  "description": "Atividade referente ao modulo Workflow do curso Certificação Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "workflow",
+    "bootstrap",
+    "gulp",
+    "npm"
+  ],
+  "author": "Clebson Pettenon",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-htmlmin": "^3.0.0"
+  }
+}
